@@ -14,7 +14,7 @@
 
 <div align="center">
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=kevin-nemo74&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="elnino97" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin-nemo74&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="elnino97" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=elnino97&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="elnino97" />
 </div>
     
 ---
@@ -37,7 +37,5 @@ ___
 
 <div>
   <h3>📱 Social Medias:</h3><br>
-    <a href="https://www.linkedin.com/in/aidas-kairys-086689162/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
-    <a href="https://www.aidaskairys.me/"><img src="https://img.shields.io/static/v1?label=&message=DEV&color=%230A0A0A&style=for-the-badge&logo=dev.to" alt="Portfolio"></a>
-    <a href="https://www.instagram.com/aidas97/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/mohamed-guenez-642392224/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
 </div>
